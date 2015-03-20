@@ -10,7 +10,7 @@ namespace GitHubTestLazyCode
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Hell");
+            Console.WriteLine("Hello Hell!");
             Console.ReadKey();
         }
     }
